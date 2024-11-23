@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.exmo.tetra_armor.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "tetra_armor.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
